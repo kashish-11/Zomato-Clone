@@ -1,0 +1,358 @@
+{
+  "products": [
+    {
+      "id": "P1",
+      "category": "Pasta",
+      "image": "assets/images/pasta.jpg"
+    },
+    {
+      "id": "P2",
+      "category": "Burger",
+      "image": "assets/images/burger.jpg"
+    },
+    {
+      "id": "P3",
+      "category": "Pizza",
+      "image": "assets/images/pizza.jpg"
+    },
+    {
+      "id": "P4",
+      "category": "Biryani",
+      "image": "assets/images/biryani.jpg"
+    },
+    {
+      "id": "P5",
+      "category": "Cake",
+      "image": "assets/images/cake.jpg"
+    },
+    {
+      "id": "P6",
+      "category": "Noodles",
+      "image": "assets/images/noodles.jpg"
+    }
+  ],
+  "brands": [
+    {
+      "id": "B1",
+      "name": "Mc Donald's",
+      "logo": "assets/images/mcd.png",
+      "timing": "20 min",
+      "productId": "P2"
+    },
+    {
+      "id": "B2",
+      "name": "Domino's Pizza",
+      "logo": "assets/images/dominos.png",
+      "timing": "30 min",
+      "productId": "P3"
+    },
+    {
+      "id": "B3",
+      "name": "Biryani By Kilos",
+      "logo": "assets/images/bbk.png",
+      "timing": "35 min",
+      "productId": "P4"
+    },
+    {
+      "id": "B4",
+      "name": "The Dessert House",
+      "logo": "assets/images/dh.png",
+      "timing": "25 min",
+      "productId": "P5"
+    },
+    {
+      "id": "B5",
+      "name": "Twirled Pasta Bar",
+      "logo": "assets/images/twirl.png",
+      "timing": "36 min",
+      "productId": "P1"
+    },
+    {
+      "id": "B6",
+      "name": "Pizza Hut",
+      "logo": "assets/images/ph.png",
+      "timing": "28 min",
+      "productId": "P3"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "White Sauce Spaghetti Pasta",
+      "image": "assets/images/white.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 4.5,
+      "timing": 35,
+      "cost": 350
+    },
+    {
+      "id": 1,
+      "name": "Chicken Pizza",
+      "image": "assets/images/chicken_pizza.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 3.7,
+      "timing": 33,
+      "cost": 450
+    },
+    {
+      "id": 2,
+      "name": "Veggie Burger",
+      "image": "assets/images/veggie_burger.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 4.1,
+      "timing": 24,
+      "cost": 250
+    },
+    {
+      "id": 3,
+      "name": "Instant Noodles",
+      "image": "assets/images/instant.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 4.3,
+      "timing": 10,
+      "cost": 150
+    },
+    {
+      "id": 4,
+      "name": "Red Sauce Fusseli Pasta",
+      "image": "assets/images/red.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 3.8,
+      "timing": 30,
+      "cost": 380
+    },
+    {
+      "id": 5,
+      "name": "Hyderabadi Biryani",
+      "image": "assets/images/hyd_biryani.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 4.1,
+      "timing": 35,
+      "cost": 400
+    },
+    {
+      "id": 6,
+      "name": "Chicken Noodles",
+      "image": "assets/images/chicken_noodles.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 3.2,
+      "timing": 27,
+      "cost": 300
+    },
+    {
+      "id": 7,
+      "name": "Chicken Biryani",
+      "image": "assets/images/chicken_biryani.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 4.5,
+      "timing": 40,
+      "cost": 420
+    },
+    {
+      "id": 8,
+      "name": "Blueberry Cheesecake",
+      "image": "assets/images/cheesecake.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 4,
+      "timing": 25,
+      "cost": 150
+    },
+    {
+      "id": 9,
+      "name": "Margherita Pizza",
+      "image": "assets/images/margherita.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 4.8,
+      "timing": 20,
+      "cost": 390
+    },
+    {
+      "id": 10,
+      "name": "Veggie Biryani",
+      "image": "assets/images/veggie_biryani.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 3.9,
+      "timing": 35,
+      "cost": 380
+    },
+    {
+      "id": 11,
+      "name": "Chicken Burger",
+      "image": "assets/images/chicken_burger.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 3.9,
+      "timing": 30,
+      "cost": 320
+    },
+    {
+      "id": 12,
+      "name": "Chocolate Cake",
+      "image": "assets/images/chocolate_cake.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 2.5,
+      "timing": 35,
+      "cost": 300
+    },
+    {
+      "id": 13,
+      "name": "Pink Sauce Penne Pasta",
+      "image": "assets/images/pink.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 3.9,
+      "timing": 40,
+      "cost": 310
+    },
+    {
+      "id": 14,
+      "name": "Keto Burger",
+      "image": "assets/images/keto.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 3.5,
+      "timing": 37,
+      "cost": 320
+    },
+    {
+      "id": 15,
+      "name": "Veggie Pizza",
+      "image": "assets/images/veggie_pizza.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 4.2,
+      "timing": 38,
+      "cost": 430
+    },
+    {
+      "id": 16,
+      "name": "Red Velvet Cake",
+      "image": "assets/images/red_velvet_cake.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 2.9,
+      "timing": 30,
+      "cost": 320
+    },
+    {
+      "id": 17,
+      "name": "Veggie Noodles",
+      "image": "assets/images/veggie_noodles.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 3.5,
+      "timing": 25,
+      "cost": 280
+    },
+    {
+      "id": 18,
+      "name": "Pesto Sauce Ravioli Pasta",
+      "image": "assets/images/pesto.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 4.2,
+      "timing": 42,
+      "cost": 390
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Kashish Kaur",
+      "phoneNo": "7290899993",
+      "emailId": "kkaur@centricity.co.in",
+      "password": "Wxyz@1234"
+    },
+    {
+      "id": "u2",
+      "name": "Tanushka Sharma",
+      "phoneNo": "9973988562",
+      "emailId": "tsharma@centricity.co.in",
+      "password": "Abcd@1234"
+    },
+    {
+      "id": "u3",
+      "name": "Radhika Tyagi",
+      "phoneNo": "6558900134",
+      "emailId": "rtyagi@centricity.co.in",
+      "password": "Qrst@2345"
+    },
+    {
+      "id": "u4",
+      "name": "Tia Neu",
+      "phoneNo": "9926279393",
+      "emailId": "tneu@centricity.co.in",
+      "password": "Asdf@5667"
+    },
+    {
+      "id": "u5",
+      "name": "Rahul Sharma",
+      "phoneNo": "7785460944",
+      "emailId": "rsharma@centricity.co.in",
+      "password": "Abbcr@146"
+    },
+    {
+      "id": "u6",
+      "name": "Chirag Malik",
+      "phoneNo": "8884277200",
+      "emailId": "chirag8malik@gmail.com",
+      "password": "gully5gully"
+    },
+    {
+      "id": "u7",
+      "name": "Anukalp Rauniyar",
+      "phoneNo": "9923345590",
+      "emailId": "arauniyar@centricity.co.in",
+      "password": "Pqrst@1290"
+    }
+  ],
+  "routes": {
+    "timing": "/items?_sort=timing&_order=desc",
+    "rating": "/items?_sort=rating&_order=desc",
+    "costHigh": "/items?_sort=cost&_order=desc",
+    "costLow": "/items?_sort=cost&_order=asc"
+  },
+  "addToCart": [
+    {
+      "id": 15,
+      "name": "Keto Burger",
+      "image": "assets/images/keto.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 3.5,
+      "timing": 37,
+      "cost": 320
+    },
+    {
+      "id": 2,
+      "name": "Chicken Pizza",
+      "image": "assets/images/chicken_pizza.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 3.7,
+      "timing": 33,
+      "cost": 450
+    },
+    {
+      "id": 1,
+      "name": "White Sauce Spaghetti Pasta",
+      "image": "assets/images/white.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 4.5,
+      "timing": 35,
+      "cost": 350
+    },
+    {
+      "id": 5,
+      "name": "Red Sauce Fusseli Pasta",
+      "image": "assets/images/red.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 3.8,
+      "timing": 30,
+      "cost": 380
+    },
+    {
+      "id": 13,
+      "name": "Chocolate Cake",
+      "image": "assets/images/chocolate_cake.jpg",
+      "details": "Neque porro quisquam est qui dolorem ipsum...",
+      "rating": 2.5,
+      "timing": 35,
+      "cost": 300
+    },
+    {
+      "id": 16
+    }
+  ]
+}

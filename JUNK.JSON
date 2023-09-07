@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "B7",
+        "name" : "The Cheesecake and Co.",
+        "logo" : "assets/images/cc.png",
+        "productId" : "P5"
+    },
+    {
+        "id" : "B8",
+        "name" : "The Pasta House Co.",
+        "logo" : "assets/images/tphc.png",
+        "productId" : "P1"
+    },
+    {
+        "id" : "B9",
+        "name" : "Burger King",
+        "logo" : "assets/images/bk.png",
+        "productId" : "P2"
+    },
+    {
+        "id" : "B10",
+        "name" : "Behrouz - The Royal Biryani",
+        "logo" : "assets/images/btrb.png",
+        "productId" : "P4"
+    }
+]
